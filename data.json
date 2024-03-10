@@ -1,0 +1,4 @@
+[
+    { "id": "1", "name": "At Work", "bg": "./img/bgPattern016.jpg", "do": [{ "id": "1", "task": "Call to Boss", "pro": "3" }, { "id": "2", "task": "Email to Maria", "pro": "2" }, { "id": "3", "task": "Order some Papers", "pro": "0" }] },
+    { "id": "2", "name": "At Home", "bg": "./img/bgPattern015.jpg", "do": [{ "id": "1", "task": "Make Dinner", "pro": "0" }, { "id": "2", "task": "Visit my Papa", "pro": "2" }] }
+]
